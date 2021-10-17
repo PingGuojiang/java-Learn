@@ -1,19 +1,3 @@
-# java-Learn
-
-Java-Learn and Description
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br />
-
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -36,7 +20,7 @@ Java-Learn and Description
 </p>
 
 ## 目录
-- [学习视频](#学习指南)
+- [学习视频](#学习视频)
 - [工具](#我用到的一些工具)
 - [文件目录说明](#文件目录说明)
 - [贡献者](#贡献者)
@@ -49,7 +33,7 @@ Java-Learn and Description
 
 - [ 韩顺平 ](https://space.bilibili.com/651245581?spm_id_from=333.788.b_765f7570696e666f.2) 
 
-### 文件目录说明
+### 我用到的一些工具
 
 - [ GitHubDesktop汉化 ](https://github.com/lkyero/GitHubDesktop_zh) 汉化) 注意使用对应GitHubDesktop版本不然容易出错
 
