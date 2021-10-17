@@ -50,7 +50,32 @@
 - [ GitHub 页面](https://pages.github.com)
 - [ Animate.css ](https://daneden.github.io/animate.css)
 - [ 《完美的》README模板 ](https://github.com/shaojintian/Best_README_template)
-
+<!DOCTYPE html>
+    <meta charset="utf-8" />
+    <title></title>
+    <!-- require APlayer -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+    <!-- require MetingJS -->
+    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+</head>
+<body>
+<meting-js
+        server="netease"
+        type="playlist"
+        id="2226885009"
+        fixed="true"
+        autoplay="true"
+        loop="all"
+        volume="0.1"
+        order="random"
+        preload="auto"
+        list-folded="ture"
+        list-max-height="500px"
+        lrc-type="1">
+</meting-js>
+</body>
+</html>
 
 
 
