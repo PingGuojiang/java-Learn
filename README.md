@@ -22,10 +22,8 @@
 ## 目录
 - [学习视频](#学习视频)
 - [工具](#我用到的一些工具)
-- [文件目录说明](#文件目录说明)
 - [贡献者](#贡献者)
   - [如何参与开源项目](#如何参与开源项目)
-  
 - [作者](#作者)
 - [鸣谢](#鸣谢)
 
@@ -36,15 +34,7 @@
 ### 我用到的一些工具
 
 - [ GitHubDesktop汉化 ](https://github.com/lkyero/GitHubDesktop_zh) 汉化) 注意使用对应GitHubDesktop版本不然容易出错
-
-### 文件目录说明
-
-```
-filetree 
-├── README.md
-├── /images/
-```
-
+- 
 ### 贡献者
 
 
@@ -60,8 +50,6 @@ filetree
 - [ GitHub 页面](https://pages.github.com)
 - [ Animate.css ](https://daneden.github.io/animate.css)
 - [ 《完美的》README模板 ](https://github.com/shaojintian/Best_README_template)
-
-
 
 
 
